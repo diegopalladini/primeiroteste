@@ -138,6 +138,10 @@ body {
         padding: 5%;
     }
 
+    .apresentacao__imagem {
+        width: 100%;
+    }
+    
     .apresentacao__conteudo {
         width: auto;
     }
